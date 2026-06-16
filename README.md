@@ -1,4 +1,4 @@
-#湖南师范大学 HUNNU / Dr.COM 校园网web端的自动登录脚本
+# 湖南师范大学 HUNNU / Dr.COM 校园网web端的自动登录脚本
 
 > 面向湖南师范大学 HUNNU / HUNNU-5G / 校园有线网络的 Dr.COM Portal 登录、注销、状态查询、守护重连与诊断导出脚本。
 
