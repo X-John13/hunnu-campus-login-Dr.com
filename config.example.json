@@ -1,0 +1,9 @@
+{
+  "user_account": "",
+  "user_password": "",
+  "isp_code": "0",
+  "daemon_interval": 60,
+  "max_retry": 3,
+  "retry_delay": 5,
+  "log_file": null
+}

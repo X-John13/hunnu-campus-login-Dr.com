@@ -1,0 +1,35 @@
+{
+  "active_profile": "main",
+  "profiles": {
+    "main": {
+      "user_account": "你的学号",
+      "user_password": "你的密码",
+      "isp_code": "0"
+    },
+    "unicom": {
+      "user_account": "你的学号或运营商账号",
+      "user_password": "你的密码",
+      "isp_code": "2"
+    },
+    "backup": {
+      "user_account": "备用账号",
+      "user_password": "备用密码",
+      "isp_code": "0"
+    }
+  },
+  "school_ssids": ["HUNNU", "HUNNU-5G"],
+  "strict_school_ssid": false,
+  "adapter_prefer": "auto",
+  "ip": null,
+  "mac": null,
+  "logout_browser": true,
+  "logout_browser_mode": "visible",
+  "logout_browser_rounds": 3,
+  "visible_browser_fallback": true,
+  "logout_simple_rounds": 3,
+  "daemon_interval": 60,
+  "max_retry": 3,
+  "retry_delay": 5,
+  "log_dir": "logs",
+  "log_file": null
+}

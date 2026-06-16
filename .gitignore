@@ -1,0 +1,31 @@
+# 本地真实配置，禁止上传
+config.json
+config.*.local.json
+*.secret.json
+*.private.json
+
+# 日志与诊断包可能包含账号、MAC、IP、加密 params、路径等信息
+logs/
+debug_bundles/
+*.log
+*.zip
+*.tar
+*.tar.gz
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+*.old
